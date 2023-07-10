@@ -1,0 +1,130 @@
+{
+    "introduce":{
+        "header":"Cześć! Nazywam się Dominik Białowąs",
+        "desc":"Jestem programistą full-stack zorientowanym na tworzeniu efektywnego i intuicyjnego oprogramowania,\n które spełnia oczekiwania użytkowników."
+    },
+    "aboutme":{
+        "header":"O mnie",
+        "content":"💼 Nazywam się Dominik Białowąs, od najmłodszych lat jestem pasjonatem programowania. Moje zamiłowanie do tworzenia oprogramowania zostało uwieńczone zdobyciem tytułu inżyniera oprogramowania.\n\n🔧 Moja droga zawodowa rozpoczęła się od pracy na stanowisku specjalisty help-desk, gdzie zdobyłem cenne doświadczenie w obszarze wsparcia technicznego. Pracując bezpośrednio z użytkownikami, nauczyłem się efektywnie rozwiązywać problemy, klarownie komunikować się oraz radzić sobie w dynamicznym środowisku pracy. Doświadczenia zdobyte w tej pracy pomogły mi zrozumieć potrzeby użytkowników i ich perspektywę, co jest niezwykle wartościowe w pracy programisty.\n\n🔎 Kolejnym etapem mojej kariery była praca na stanowisku testera oprogramowania. W tym obszarze zdobyłem dogłębną wiedzę na temat testowania, zarządzania defektami i aspektów jakościowych tworzonego oprogramowania. Było to nie tylko wyzwanie, ale również szansa na naukę różnych technik testowania oraz programowania. Moja dokładność, sumienność oraz znajomość rozwiązań stosowanych w aplikacjach webowych pomogły mi w identyfikowaniu błędów oraz zapewnieniu wysokiej jakości produktów.\n\n💻 Obecnie pracuję jako programista full-stack, co umożliwia mi rozwijanie się zarówno w zakresie front-endu, jak i back-endu. Tworzenie innowacyjnych aplikacji, projektowanie interfejsów użytkownika i implementacja kompleksowych rozwiązań stanowią dla mnie inspirujące wyzwania. Dążę do tworzenia efektywnego i intuicyjnego oprogramowania, które spełnia potrzeby użytkowników.\n\n✨ Rzetelność i pracowitość są dla mnie niezwykle ważnymi wartościami w mojej pracy. Zawsze stawiam sobie wysokie standardy i dążę do perfekcji w każdym zadaniu, jakie podejmuję. Moje umiejętności analityczne oraz dokładność pozwalają mi na efektywne rozwiązywanie problemów i osiąganie zamierzonych celów.\n\n🎯 Moja pasja do programowania, zdobyty tytuł inżyniera oprogramowania oraz doświadczenie jako specjalista help-desk, tester oprogramowania i programista full-stack stanowią solidną podstawę dla mojego dalszego rozwoju zawodowego. Jestem zmotywowany do osiągania coraz większych sukcesów oraz nieustannie rozwijam swoje umiejętności, aby sprostać wyzwaniom branży IT."
+    },
+    "skills":{
+        "header":"Umiejętności",
+        "items":[
+            {
+                "header":"Języki programowania",
+                "items":["C#","TypeScript","HTML","CSS","Java", "SQL"]
+            },
+            {
+                "header":"Biblioteki i frameworki",
+                "items":[".NET Core","EntityFramework","AutoMapper","FluentValidation","React","PrimeReact","Axios","Spring"]
+            },
+            {
+                "header":"Narzędzia",
+                "items": ["Git","GitHub","Jira","Azure DevOps","Postman","Visual Studio","InteliJ IDEA","SSMS"]
+            }
+        ]
+    },
+    "expirience":{
+        "header":"Doświadczenie i edukacja",
+        "items":[
+            {
+                "title":"Uzyskanie tytułu inżyniera oprogramowania",
+                "date":"Maj 2023",
+                "desc":"Po 3.5 roku ukończyłem studia inżynierskie na Warszawskiej Wyższej Szkole informatyki broniąc swoją pracę dyplomową na ocenę bardzo dobrą. Tematem mojej pracy inżynierskiej jest: System lokalizowania i rejestrowania tras pojazdów w firmach transportowych",
+                "type":"edu"
+            },
+            {
+                "title":"Programista full-stack",
+                "date":"Listopad 2022 - obecnie",
+                "desc":"Wykazywanie się w codziennej pracy sumiennością, wiedzą zdobytą na studiach oraz dobrymi umiejętnościami programistycznymi, umożliwiło mi dołączenie do zespołu deweloperskiego. Od teraz mogę realizować moją pasję w codziennej pracy zawodowej!",
+                "type":"work"
+            },
+            {
+                "title":"Tester automatyzujący",
+                "date":"Grudzień 2021 - Październik 2022",
+                "desc":"Podążając za moimi zainteresowaniami dotyczącymi inżynierii oprogramowania postanowiłem zmienić pracę i dołączyć do zespołu testerów. Na stanowisku testera automatyzującego dalej pogłębiałem swoją wiedzę na temat programowania oraz dowiedziałem się wiele na temat dostarczania dobrej jakości oprogramowania.",
+                "type":"work"
+            },
+            {
+                "title":"Helpdesk specialist",
+                "date":"Czerwiec 2019 - Listopad 2021",
+                "desc":"Moja pierwsza praca oraz pierwsze doświadczenia w świecie IT. Pracując tu nauczałem się wiele na temat konfiguracji oraz utrzymania oprogramowania i sprzętu. Napisałem tu pierwszą prostą aplikację, która usprawniała pracę jednego z wydziałów.",
+                "type":"work"
+            },
+            {
+                "title":"Technik informatyk",
+                "date":"Maj 2019",
+                "desc":"Tutaj rozpocząłem swoją przygodę z informatykę i pasją do programowania. Uzyskałem tytuł technika informatyka oraz ukończyłem szkołę ze średnią ocen powyżej 5.",
+                "type":"edu"
+            }
+        ]
+    },
+    "projects":{
+        "header":"Projekty",
+        "items":[
+            {
+                "title":"Fleet monitor",
+                "subtitle":"Front-end",
+                "desc":"Aplikacja front-end która jest częścią systemu Fleet monitor. System ten umożliwia rejestrowanie oraz przegląd tras i pozycji pojazdów należących do naszej floty pojazdów. Utworzona została przeze mnie w ramach projetku inżynierskiego. Więcej na jej temat znajdziesz w serwisie GitHub!",
+                "demoUrl":"http://",
+                "gitURL":"https://github.com/bialowasdominik/fleet-monitor-gui",
+                "gitButton":"Zobacz na GitHub"
+            },
+            {
+                "title":"Fleet monitor",
+                "subtitle":"Back-end",
+                "desc":"Aplikacja back-end która jest częścią systemu Fleet monitor. System ten umożliwia rejestrowanie oraz przegląd tras i pozycji pojazdów należących do naszej floty pojazdów. Utworzona została przeze mnie w ramach projetku inżynierskiego. Więcej na jej temat znajdziesz w serwisie GitHub!",
+                "demoUrl":"http://",
+                "gitURL":"https://github.com/bialowasdominik/fleet-monitor-api",
+                "gitButton":"Zobacz na GitHub"
+            },
+            {
+                "title":"Portfolio",
+                "subtitle":"Front-end",
+                "desc":"Kod źródłowy strony którą oglądasz!",
+                "gitURL":"http://",
+                "gitButton":"Zobacz na GitHub"
+            },
+            {
+                "title":"Localisator GPS",
+                "subtitle":"Urządzenie",
+                "desc":"Urządzenie lokalizujące, które jest częścią systemu Fleet monitor. Lokalizator odpowiada za zbieranie współrzędnych geograficznych i przesyłanie ich do aplikacji back-end. Więcej na temat budowy i oprogramowania znajdziesz na GitHub!",
+                "demoUrl":"http://",
+                "gitURL":"https://github.com/bialowasdominik/fleet-monitor-localisator",
+                "gitButton":"Zobacz na GitHub"
+            },
+            {
+                "title":"YachTY",
+                "subtitle":"MVC",
+                "desc":" Prosta aplikacja dla firm czarterujących łodzie. Umożliwia użytkownikom przeglądanie dostępnych łodzi oraz weryfikowanie dostępnych terminów w celu ich wynajęcia.",
+                "demoUrl":"http://",
+                "gitURL":"https://github.com/bialowasdominik/YachTY",
+                "gitButton":"Zobacz na GitHub"
+            }
+        ]
+    },
+    "contact":{
+        "header":"Pozostańmy w kontakcie",
+        "messageHeader":"Wyślij mi wiadomość!",
+        "messageName":"Imię",
+        "messageContent":"Treść wiadomości",
+        "messageSend":"Wyślij",
+        "details":"Zapisz moje dane osobowe",
+        "place":"Warszawa, Polska",
+        "or":"lub",
+        "CV":"Pobierz CV"
+    },
+    "toast":{
+        "success":{
+            "header":"Sukces!",
+            "message":"Pomyślnie wysłano wiadomość! Odpiszę do ciebie tak szybko jak to możliwe!"
+        },
+        "error":{
+            "header":"Błąd!",
+            "message":"Coś poszło nie tak :("
+        }
+    },
+    "alt":{
+        "autor":"Zdjęcie z twarzą autora"
+    }
+}

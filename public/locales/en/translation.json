@@ -1,0 +1,130 @@
+{
+    "introduce":{
+        "header":"Hi! I'm Dominik Białowąs",
+        "desc":"I am a full-stack developer focused on creating efficient and intuitive software that meets user needs."
+    },
+    "aboutme":{
+        "header":"About me",
+        "content":"💼 My name is Dominik Białowąs, and from an early age, I have been passionate about programming. My love for software development was crowned with the title of Software Engineer.\n\n🔧 My professional journey began with a position as a Help Desk Specialist, where I gained valuable experience in technical support. Working directly with users, I learned how to effectively solve problems, communicate clearly, and thrive in a dynamic work environment. The experiences I gained in this role helped me understand user needs and perspectives, which is incredibly valuable as a programmer.\n\n🔎 The next stage of my career was working as a Software Tester. In this field, I gained in-depth knowledge of testing, defect management, and the quality aspects of software development. It was not only a challenge but also an opportunity to learn various testing and programming techniques. My attention to detail, conscientiousness, and familiarity with solutions used in web applications helped me identify errors and ensure high-quality products.\n\n💻 Currently, I work as a full-stack developer, allowing me to expand my skills in both front-end and back-end development. Creating innovative applications, designing user interfaces, and implementing comprehensive solutions are inspiring challenges for me. I strive to create efficient and intuitive software that meets user needs.\n\n✨ Reliability and diligence are incredibly important values in my work. I always set high standards for myself and strive for perfection in every task I undertake. My analytical skills and precision enable me to effectively solve problems and achieve intended goals.\n\n🎯 My passion for programming, the title of Software Engineer I have acquired, and my experience as a Help Desk Specialist, Software Tester, and full-stack developer provide a solid foundation for my further professional development. I am motivated to achieve even greater success and continuously enhance my skills to meet the challenges of the IT industry."
+    },
+    "skills":{
+        "header":"Skills",
+        "items":[
+            {
+                "header":"Programming languages",
+                "items":["C#","TypeScript","HTML","CSS","Java", "SQL"]
+            },
+            {
+                "header":"Libraries & frameworks",
+                "items":[".NET Core","EntityFramework","AutoMapper","FluentValidation","React","PrimeReact","Axios","Spring"]
+            },
+            {
+                "header":"Tools",
+                "items": ["Git","GitHub","Jira","Azure DevOps","Postman","Visual Studio","InteliJ IDEA","SSMS"]
+            }
+        ]
+    },
+    "expirience":{
+        "header":"Expirience & education",
+        "items":[
+            {
+                "title":"Bachelor's of science in software engineering",
+                "date":"May 2023",
+                "desc":"After 3.5 years, I completed my engineering studies at the Warsaw School of Computer Science by defending my thesis with a very good grade. The topic of my engineering thesis is: System for locating and recording vehicle routes in transport companies.",
+                "type":"edu"
+            },
+            {
+                "title":"Full-stack developer",
+                "date":"November 2022 - Present",
+                "desc":"Demonstrating diligence in my daily work, the knowledge I gained at college and good porgramming skills, enabled me to join the development team. From now on, I can realize my passion in my daily professional work!",
+                "type":"work"
+            },
+            {
+                "title":"Automation tester",
+                "date":"December 2021 - October 2022",
+                "desc":"Following my interest in software engineering, I decided to change job and join a team of testers. In my position as an automation tester, I further improved my knowledge of programming and learned a lot about delivering good quality software.",
+                "type":"work"
+            },
+            {
+                "title":"Helpdesk specialist",
+                "date":"June 2019 - November 2021",
+                "desc":"My first job and first experience in the IT world. Working here I learned a lot of cofniguration and maintenance of software and hardware. I wrote my first simple application here, which simplified the work of one of the departments.",
+                "type":"work"
+            },
+            {
+                "title":"IT technician",
+                "date":"May 2019",
+                "desc":"Here I began my adventure with infromatics and my passion for programming. I earned a degree in computer science technician and graduated with a grade point average above 5.",
+                "type":"edu"
+            }
+        ]
+    },
+    "projects":{
+        "header":"Projects",
+        "items":[
+            {
+                "title":"Fleet monitor",
+                "subtitle":"Front-end",
+                "desc":"A front-end application that is part of the Fleet monitor system. This system allows us to record and review the routes and positions of vehicles belonging to our fleet of vehicles. It was created by me as part of an engineering project. You can find more about it on GitHub!",
+                "demoUrl":"http://",
+                "gitURL":"https://github.com/bialowasdominik/fleet-monitor-gui",
+                "gitButton":"View on GitHub"
+            },
+            {
+                "title":"Fleet monitor",
+                "subtitle":"Back-end",
+                "desc":"A back-end application that is part of the Fleet monitor system. This system allows us to record and review the routes and positions of vehicles belonging to our fleet of vehicles. It was created by me as part of an engineering project. You can find more about it on GitHub!",
+                "demoUrl":"http://",
+                "gitURL":"https://github.com/bialowasdominik/fleet-monitor-api",
+                "gitButton":"View on GitHub"
+            },
+            {
+                "title":"Portfolio",
+                "subtitle":"Front-end",
+                "desc":"The source code of the webpage you are currently watching",
+                "gitURL":"http://",
+                "gitButton":"View on GitHub"
+            },
+            {
+                "title":"Localisator GPS",
+                "subtitle":"Device",
+                "desc":"The tracking device, which is part of the Fleet Monitor system. The locator collects geographical coordinates and sends them to the back-end application. You can find more information about its construction and software on GitHub!",
+                "demoUrl":"http://",
+                "gitURL":"https://github.com/bialowasdominik/fleet-monitor-localisator",
+                "gitButton":"View on GitHub"
+            },
+            {
+                "title":"YachTY",
+                "subtitle":"MVC",
+                "desc":"A simple application for yacht charter companies. It allows users to browse available yachts and verify the available dates for renting them.",
+                "demoUrl":"http://",
+                "gitURL":"https://github.com/bialowasdominik/YachTY",
+                "gitButton":"View on GitHub"
+            }
+        ]
+    },
+    "contact":{
+        "header":"Get in touch",
+        "messageHeader":"Send me a message!",
+        "messageName":"Name",
+        "messageContent":"Message",
+        "messageSend":"Send message",
+        "details":"Save my personal details",
+        "place":"Warsaw, Poland",
+        "or":"or",
+        "CV":"Download CV"
+    },
+    "toast":{
+        "success":{
+            "header":"Success!",
+            "message":"Successfully sended message! I respond to you as soon as possible!"
+        },
+        "error":{
+            "header":"Error!",
+            "message":"Something went wrong :("
+        }
+    },
+    "alt":{
+        "author":"Photo with author face"
+    }
+}
